@@ -1,3 +1,19 @@
 body{
-    margin: 0;
+    display: flex;
+     
+}
+span{
+    color: darkorange;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.name{
+    color: darkorange;
+}
+
+.first_container{
+    width: 40%;
 }
