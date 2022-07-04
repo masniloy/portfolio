@@ -79,8 +79,3 @@ section {
     border-image: linear-gradient(goldenrod, rgba(0, 128, 0, 0.649));
     border-image-slice: 1;
 }
-
-.first_sector_single {
-    padding: 20px;
-    border-radius: 10px;
-}
