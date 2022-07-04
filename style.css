@@ -4,8 +4,6 @@ body {
 
 .first_section {
     display: flex;
-    margin-left: 110px;
-    margin-top: 30px;
 }
 
 span {
@@ -21,8 +19,13 @@ h1 {
 }
 
 .first_container {
-    width: 30%;
-    padding-left: 100px;
+    width: 50%;
+    padding: 2%;
+}
+
+.first_section img {
+    display: flex;
+    padding-bottom: 150px;
 }
 
 .an {
