@@ -25,6 +25,7 @@ h1 {
 
 .first_section img {
     display: flex;
+    width: 90%;
     padding-bottom: 150px;
 }
 
