@@ -1,19 +1,33 @@
-body{
-    display: flex;
-     
+body {
+    margin: 0;
 }
-span{
+
+.first_section {
+    display: flex;
+    margin-left: 110px;
+    margin-top: 30px;
+}
+
+span {
     color: darkorange;
 }
 
-h1{
+h1 {
     font-size: 50px;
 }
 
-.name{
+.name {
     color: darkorange;
 }
 
-.first_container{
-    width: 40%;
+.first_container {
+    width: 30%;
+    padding-left: 100px;
+}
+
+.an {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 40px;
+    border-radius: 5px;
 }
